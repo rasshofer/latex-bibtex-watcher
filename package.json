@@ -1,0 +1,13 @@
+{
+  "name": "latex-bibtex-watcher",
+  "version": "0.0.1",
+  "description": "Simple script watching for changes on LaTeX or BibTeX files and rebuilding on every change",
+  "main": "watcher.js",
+  "author": "Thomas Rasshofer <hello@thomasrasshofer.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "glob-watcher": "0.0.7",
+    "shelljs": "^0.3.0"
+  }
+}
